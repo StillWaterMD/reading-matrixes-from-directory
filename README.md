@@ -10,7 +10,7 @@ name of operation
 5 6
 7 8
 ---------
- operation name could be one on these "multiply, add, subtract, transpose"
+ operation name could be one of these "multiply, add, subtract, transpose"
  
 there are no checks for incorrect matrixes yet, so make sure that it's possible to multiply/add/transpose matrixes in files (size   wise or content wise). it's possible that i'll add these checks in future like this in future.
 
